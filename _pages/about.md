@@ -3,7 +3,7 @@ title: About
 permalink: /about
 ---
 
-I am Shreedhar Govil, I completed my Bachelors in Computer Science and Applied Mathematics from IIIT-Delhi. I am actively looking for challenging roles in **Software Development**, **Artificial Intelligence** and **Machine Learning**. I also have interests in **Linux**, **Cybersecurity** and **UI/UX**. 
+I am Shreedhar Govil, I am currently pursuing my masters in Artificial Intelligence from the University of Zurich, Switzerland. I completed my Bachelors in Computer Science and Applied Mathematics from IIIT-Delhi. I am actively looking for challenging roles in **Computer Vision**, **Artificial Intelligence** and **Machine Learning**, **Software Development**. I also have interests in **UI/UX** and **Human Computer Interaction**. 
 
 # Selected Projects
 
