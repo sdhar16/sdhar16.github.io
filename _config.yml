@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "Shreedhar Govil"
   avatar           : "/assets/images/profile.jpg"
-  bio              : " “Those who dare to fail miserably can achieve greatly.”– John F. Kennedy"
-  location         : "New Delhi, IN"
+  bio              : " “Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.” ― Frank Herbert, Dune"
+  location         : "Zurich, CH"
   # email            : "shreedhar.govil@gmail.com"
   links:
     - label: "Email"
@@ -113,9 +113,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sdhar16"
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/documents/sdhar_cv.pdf"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin" 
+      url: https://linkedin.com/in/shreedhar-govil
+    # - label: "CV"
+    #   icon: "fas fa-fw fa-file-pdf"
+    #   url: "/assets/documents/sdhar_cv.pdf"
 
 
 
